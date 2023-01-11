@@ -1,0 +1,14 @@
+{
+  "name": "discordnzr",
+  "version": "1.0.0",
+  "description": "discord bot nzr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bx and tonz",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
